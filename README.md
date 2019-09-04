@@ -1,2 +1,2 @@
 # erp-con-openoffice-calc
-l'idea è creare un file excel che gestica i flussi come un erp.
+l'idea è creare un sistema erp, o più possibile vicino, con openoffice, simile ad un erp.
